@@ -177,6 +177,16 @@ header {
   box-shadow: none;
 }
 
+.timer-wrapper {
+  padding: 40px 0;
+  text-align: center;
+}
+
+#timer-display {
+  font-size: 32px;
+  margin-top: 20px;
+}
+
 footer img {
   width: 125px;
 }
